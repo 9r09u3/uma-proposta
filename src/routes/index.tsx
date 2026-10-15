@@ -22,7 +22,7 @@ function Index() {
     <main>
       {/* <div className="editorial masthead" aria-hidden="true"><span className="eyebrow">Trabalho, tempo e dignidade</span><span className="eyebrow">Uma luta coletiva</span></div> */}
       <div className="editorial-top">
-        <section className="narrative-section section-layout" id="proposta" aria-labelledby="proposta-heading">
+        <section className="narrative-section section-layout" id="inicio" aria-labelledby="proposta-heading">
           <div className="section-label"><span className="section-number">00</span><span className="eyebrow">Como estamos</span></div>
           <div className="section-content">
             <h2 id="proposta-heading">A PEC DO FIM DA 6X1 PASSOU!</h2>
